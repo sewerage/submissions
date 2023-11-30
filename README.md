@@ -1,2 +1,0 @@
-# submissions
-in dec
